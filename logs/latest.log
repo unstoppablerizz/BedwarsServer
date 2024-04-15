@@ -1,0 +1,235 @@
+[00:46:50] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:46:51] [ServerMain/INFO]: Loaded 7 recipes
+[00:46:52] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[00:46:52] [Server thread/INFO]: Loading properties
+[00:46:52] [Server thread/INFO]: This server is running CraftBukkit version 4055-Spigot-e9ec548-ee685bd (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT)
+[00:46:52] [Server thread/INFO]: Debug logging is disabled
+[00:46:52] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:46:52] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:46:52] [Server thread/INFO]: Default game type: SURVIVAL
+[00:46:52] [Server thread/INFO]: Generating keypair
+[00:46:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:46:53] [Server thread/INFO]: Using default channel type
+[00:46:53] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.0.7
+[00:46:53] [Server thread/INFO]: [BedwarsMinecraft] Loading BedwarsMinecraft v1.0
+[00:46:53] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.0.7
+[00:46:53] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.20.4[32;1m.[0;39m[m
+[00:46:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:46:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:46:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:46:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:46:53] [Server thread/INFO]: Preparing level "world"
+[00:46:54] [Server thread/INFO]: -------- World Settings For [world] --------
+[00:46:54] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:46:54] [Server thread/INFO]: View Distance: 24
+[00:46:54] [Server thread/INFO]: Simulation Distance: 10
+[00:46:54] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:46:54] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:46:54] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:46:54] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[00:46:54] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:46:54] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: Potato Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: Mob Spawn Range: 6
+[00:46:54] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[00:46:54] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[00:46:54] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[00:46:54] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:46:54] [Server thread/INFO]: Max TNT Explosions: 100
+[00:46:54] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:46:54] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[00:46:54] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[00:46:54] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:46:54] [Server thread/INFO]: View Distance: 24
+[00:46:54] [Server thread/INFO]: Simulation Distance: 10
+[00:46:54] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:46:54] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:46:54] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:46:54] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[00:46:54] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:46:54] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: Potato Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[00:46:54] [Server thread/INFO]: Mob Spawn Range: 6
+[00:46:54] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[00:46:54] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[00:46:54] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[00:46:54] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:46:54] [Server thread/INFO]: Max TNT Explosions: 100
+[00:46:54] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:46:54] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[00:46:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:46:55] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[00:46:55] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[00:46:55] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[00:46:55] [Worker-Main-3/INFO]: Preparing spawn area: 73%
+[00:46:55] [Server thread/INFO]: Time elapsed: 1613 ms
+[00:46:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:46:57] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[00:46:57] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[00:46:57] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[00:46:57] [Worker-Main-6/INFO]: Preparing spawn area: 70%
+[00:46:57] [Server thread/INFO]: Time elapsed: 1601 ms
+[00:46:57] [Server thread/INFO]: [BedwarsMinecraft] Enabling BedwarsMinecraft v1.0
+[00:46:57] [Server thread/INFO]: [Lorg.bukkit.Material;@3f707505
+[00:46:57] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:46:57] [Server thread/INFO]: Done (3.520s)! For help, type "help"
+[00:46:57] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
+[00:46:57] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m[m
+[00:46:57] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m[m
+[00:46:57] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m[m
+[00:46:57] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m[m
+[00:46:57] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m[m
+[00:46:57] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
+[00:46:57] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.0.7[0;39m[m
+[00:46:57] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m301d078[0;39m[m
+[00:46:57] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m[m
+[00:46:57] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
+[00:47:00] [User Authenticator #1/INFO]: UUID of player KirKirKsd is 97a1d21a-78ad-3910-884b-2e7d44581142
+[00:47:00] [Server thread/INFO]: KirKirKsd joined the game
+[00:47:00] [Server thread/INFO]: KirKirKsd[/127.0.0.1:55958] logged in with entity id 11 at ([world]-0.43057425964021767, 2.0, 5.1284910330499915)
+[00:47:44] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[00:47:44] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[00:47:44] [Server thread/INFO]: Debug logging is disabled
+[00:47:44] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:47:44] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:47:44] [Server thread/INFO]: -------- World Settings For [world] --------
+[00:47:44] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:47:44] [Server thread/INFO]: View Distance: 24
+[00:47:44] [Server thread/INFO]: Simulation Distance: 10
+[00:47:44] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:47:44] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:47:44] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:47:44] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[00:47:44] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:47:44] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: Potato Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: Mob Spawn Range: 6
+[00:47:44] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[00:47:44] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[00:47:44] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[00:47:44] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:47:44] [Server thread/INFO]: Max TNT Explosions: 100
+[00:47:44] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:47:44] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[00:47:44] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[00:47:44] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:47:44] [Server thread/INFO]: View Distance: 24
+[00:47:44] [Server thread/INFO]: Simulation Distance: 10
+[00:47:44] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:47:44] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:47:44] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:47:44] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[00:47:44] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:47:44] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: Potato Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[00:47:44] [Server thread/INFO]: Mob Spawn Range: 6
+[00:47:44] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[00:47:44] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[00:47:44] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[00:47:44] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:47:44] [Server thread/INFO]: Max TNT Explosions: 100
+[00:47:44] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:47:44] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[00:47:44] [Server thread/INFO]: [BedwarsMinecraft] Disabling BedwarsMinecraft v1.0
+[00:47:44] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.0.7
+[00:47:44] [Server thread/INFO]: Loaded 7 recipes
+[00:47:45] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.0.7
+[00:47:45] [Server thread/INFO]: [BedwarsMinecraft] Loading BedwarsMinecraft v1.0
+[00:47:45] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.0.7
+[00:47:45] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.20.4[32;1m.[0;39m[m
+[00:47:45] [Server thread/INFO]: [BedwarsMinecraft] Enabling BedwarsMinecraft v1.0
+[00:47:45] [Server thread/INFO]: [Lorg.bukkit.Material;@508d199f
+[00:47:45] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:47:45] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[00:47:46] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
+[00:47:46] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m[m
+[00:47:46] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m[m
+[00:47:46] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m[m
+[00:47:46] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m[m
+[00:47:46] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m[m
+[00:47:46] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
+[00:47:46] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.0.7[0;39m[m
+[00:47:46] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m301d078[0;39m[m
+[00:47:46] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m[m
+[00:47:46] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
+[00:47:54] [Server thread/INFO]: Stopping the server
+[00:47:54] [Server thread/INFO]: Stopping server
+[00:47:54] [Server thread/INFO]: [BedwarsMinecraft] Disabling BedwarsMinecraft v1.0
+[00:47:54] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.0.7
+[00:47:54] [Server thread/INFO]: Saving players
+[00:47:54] [Server thread/INFO]: KirKirKsd lost connection: Server closed
+[00:47:54] [Server thread/INFO]: KirKirKsd left the game.
+[00:47:54] [Server thread/INFO]: Saving worlds
+[00:47:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:48:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[00:48:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:48:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:48:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
